@@ -2,7 +2,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/CompileTheCraft?style=social)
 
 ## About Me
-A self-taught programmer
+
+`A self-taught programmer`
+
 🌱 I’m currently learning React, MERN stack, discord.js
 
 👯 I’m looking to collaborate with other content creators
