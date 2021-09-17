@@ -5,4 +5,4 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileTheCraft&theme=github_dark&show_icons=true)
+![CompileTheCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileTheCraft&theme=github_dark&show_icons=true)
