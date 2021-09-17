@@ -1,7 +1,7 @@
-## Hi there 👋, I am CompileTheCraft
+# Hi there 👋, I am CompileTheCraft
 ![GitHub followers](https://img.shields.io/github/followers/CompileTheCraft?style=social)
 
-# About Me
+## About Me
 A self-taught programmer
 🌱 I’m currently learning React, MERN stack, discord.js
 
