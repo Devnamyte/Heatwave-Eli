@@ -21,7 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=compilethecraft&show_icons=true&locale=en" alt="compilethecraft" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=compilethecraft&" alt="compilethecraft" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileTheCraft&hide=html,less&theme=github_dark)
-
-![CompileTheCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileTheCraft&count_private=true&show_icons=true&theme=github_dark)
