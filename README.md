@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=compilethecraft&show_icons=true&locale=en&layout=compact&theme=darkhub" alt="compilethecraft" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=compilethecraft&show_icons=true&locale=en&theme=darkhub" alt="compilethecraft" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileTheCraft&hide=html,less&theme=github_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=compilethecraft&" alt="compilethecraft" /></p>
+![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileTheCraft&count_private=true&show_icons=true&theme=github_dark)
