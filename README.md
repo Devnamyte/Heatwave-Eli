@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileTheCraft&hide=html&theme=github_dark)
 
-![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileTheCraft&count_private=true&show_icons=true&theme=github_dark)
+![CompileTheCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileTheCraft&count_private=true&show_icons=true&theme=github_dark)
