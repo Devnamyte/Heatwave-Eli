@@ -23,3 +23,10 @@
   </table>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CompileTheCraft&theme=dracula&hide_border=true)
+
+## Connect With Me👋🏼
+
+<p align="left">  
+<a href="https://twitter.com/compilethecraft" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://www.youtube.com/channel/UCy_LiOxuNeJSz-VmXoJn-Ng" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+</p>
