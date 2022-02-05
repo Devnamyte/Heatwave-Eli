@@ -8,7 +8,8 @@
     🌱 I am currently learning **discord.js** and also interested in **Web Development**.
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
-<td >
+  </td>
+ <td>
     <a href="https://app.daily.dev/CompileTheCraft"><img src="https://api.daily.dev/devcards/4da3b933329c4199ad317451221ac94f.png?r=n73" width="300" alt="CompileTheCraft's Dev Card"/></a>
   </td>
 </tr>
