@@ -3,7 +3,7 @@
 # About Me
 <table>
 <tr>
-  <td valign="center">
+  <td align="center">
   <td>🎓 I am currently studying **9th grade**.</td>
   <td>🌱 I am currently learning **discord.js** and also interested in **Web Development**.</td>
   <td>🎯 My Goal is to Contribute to as many **open source project** as possible.</td>
