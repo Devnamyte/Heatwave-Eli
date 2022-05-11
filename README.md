@@ -46,5 +46,5 @@
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CompileTheCraft&show_icons=true&theme=github_dark&layout=compact&locale=en&hide_border=true" alt="compilethecraft" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CompileTheCraft&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="compilethecraft" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CompileTheCraft&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="compilethecraft" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CompileTheCraft&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="compilethecraft" />
 </p>
