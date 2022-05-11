@@ -22,7 +22,7 @@
   </tr>
   </table>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CompileTheCraft&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CompileTheCraft&theme=github&hide_border=true)
 
 ## Connect With Me👋🏼
 
