@@ -10,9 +10,9 @@
 
 🌱 I am currently learning **discord.js** and also interested in **Web Development**.
 
-🎯 My Goal is to Contribute to as many **open source project** as possible.
+🎯 My Goal is to Contribute to as many **open source projects** as possible.
 
-✨ I love to create different types of **contents**.
+✨ I love to create different types of **content**.
 
       
 <td >
